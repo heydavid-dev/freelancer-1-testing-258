@@ -74,11 +74,3 @@ credits: 'Freelancer is a free to use, open source theme, created by Start Boots
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
